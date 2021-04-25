@@ -1,1 +1,1 @@
-landPageResposive
+landing page in js, resposive e con smooth scrolling sul navbar
